@@ -1,0 +1,194 @@
+code {
+    font-family: Monaco,Menlo,Consolas,"Courier New",monospace !important;
+}
+
+.account-box .info {
+    background-color: #333 !important;
+}
+
+.side-nav .rooms-list {
+    background-color: #333 !important;
+}
+
+.messages-box ul  {
+    color: #2f343d !important;
+}
+
+.messages-box ul > li:nth-child(odd) {
+    background-color: #1d1d1d;
+}
+.messages-box ul > li:nth-child(even) {
+    background-color: #1d1d1d;
+}
+
+.message.user {
+    color: #eee !important;
+}
+
+div.body a {
+    color: #1d74f5 !important;
+}
+
+.messages-container .footer {
+    background-color: #222 !important;
+}
+
+.messages-container {
+    background-color: #1d1d1d !important;
+}
+
+.new-day::before {
+    color: #eee !important;
+	background-color: #1d1d1d !important;
+}
+
+.message.new-day::after {
+    border-color: #444 !important;
+}
+
+.icon-paper-plane, .send-button {
+    background-color: #333 !important;
+}
+
+.flex-tab-bar, .tab-button {
+    background-color: #333 !important;
+    color: #eee;
+}
+
+.rc-header__wrap {
+	background-color: #333 !important;
+}
+
+.rc-header {
+	background-color: #333 !important;
+}
+
+.color-primary-font-color {
+    color: #eee !important;
+}
+
+.flex-nav {
+	background-color: #222 !important;
+}
+
+.contextual-bar-wrap {
+	background-color: #222 !important;
+}
+
+.rc-user-info-details {
+	background-color: #222 !important;
+}
+
+.rc-user-info-details__info {
+	color: #eee !important;
+}
+
+.role-tag {
+	color: #000 !important;
+}
+
+.sidebar {
+	background-color: #222 !important;
+}
+
+.footer {
+	background-color: #222 !important;
+}
+
+.rc-header__data {
+	color: #eee !important;
+}
+
+.rc-message-box__textarea {
+	color: #eee !important;
+}
+
+.rc-message-box__typing__user {
+	color: #eee !important;
+}
+
+.code-colors {
+	background-color: #eee !important;
+}
+
+.room-leader {
+	background-color: #333 !important;
+    border-color: #333 !important;
+}
+
+.sidebar-item--active {
+	background-color: #333 !important;
+}
+
+.sidebar-item:hover {
+	background-color: #2a2a2a !important;
+}
+
+.rc-icon {
+	color: #eee !important;
+}
+
+.rc-message-box__container {
+    border-color: #333 !important;
+}
+
+.chat-now {
+    color: #aaa !important;
+    border-color: #333 !important;
+}
+
+.rc-input__element {
+    border-color: #333 !important;
+}
+
+.rc-modal-wrapper {
+	background-color: rgba(22,22,22,.8) !important;
+}
+
+.rc-modal {
+	background-color: #222 !important;
+}
+
+.rc-modal__footer {
+	background-color: #333 !important;
+}
+
+.rc-button {
+	color: #eee !important;
+}
+
+.rc-select {
+	border-color: #333 !important;
+}
+
+.rc-member-list__counter {
+	color: #eee !important;
+}
+
+.rc-tags {
+	border-color: #333 !important;
+}
+
+.attachments__name {
+	color: #eee !important;
+}
+
+.background-attention-color {
+	background-color: #fff !important;
+}
+
+.color-primary-font-color::after {
+	background-color: #1d1d1d !important;
+}
+
+.message:hover {
+	background-color: #222 !important;
+}
+
+.editing {
+	background-color: #333 !important;
+}
+
+.message.editing {
+	background-color: #333 !important;
+}
