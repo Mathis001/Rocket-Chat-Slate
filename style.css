@@ -192,3 +192,7 @@ div.body a {
 .message.editing {
 	background-color: #333 !important;
 }
+
+.sidebar-item__user-status--offline {
+	background-color: #000 !important;
+}
