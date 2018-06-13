@@ -1,5 +1,5 @@
 # Rocket-Chat-Slate
-A Slate theme for Rocket Chat.
+A dark slate color theme for Rocket Chat.
 
 
 ### Install Stylish browser plug-in here:
@@ -14,7 +14,7 @@ Firefox: [Download Here](https://addons.mozilla.org/en-US/firefox/addon/stylish/
 
 2. Click the thee button menu to the right of the on/off button.
 
-3. Clcik "Create New Style"
+3. Click "Create New Style"
 
 4. Enter a name and paste the contents of style.css into the code box.
 
