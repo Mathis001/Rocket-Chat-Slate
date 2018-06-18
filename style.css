@@ -2,18 +2,6 @@ code {
     font-family: Monaco,Menlo,Consolas,"Courier New",monospace !important;
 }
 
-.account-box .info {
-    background-color: #333 !important;
-}
-
-.side-nav .rooms-list {
-    background-color: #333 !important;
-}
-
-.messages-box ul  {
-    color: #2f343d !important;
-}
-
 .messages-box ul > li:nth-child(odd) {
     background-color: #1d1d1d;
 }
@@ -21,115 +9,103 @@ code {
     background-color: #1d1d1d;
 }
 
-.message.user {
-    color: #eee !important;
-}
-
 div.body a {
-    color: #1d74f5 !important;
+    color: #1d74f5;
 }
 
 .messages-container .footer {
-    background-color: #222 !important;
+    background-color: #222;
 }
 
 .messages-container {
-    background-color: #1d1d1d !important;
+    background-color: #1d1d1d;
 }
 
 .new-day::before {
-    color: #eee !important;
+    color: #eee;
 	background-color: #1d1d1d !important;
 }
 
 .message.new-day::after {
-    border-color: #444 !important;
-}
-
-.icon-paper-plane, .send-button {
-    background-color: #333 !important;
+    border-color: #444;
 }
 
 .flex-tab-bar, .tab-button {
-    background-color: #333 !important;
+    background-color: #333;
     color: #eee;
 }
 
 .rc-header__wrap {
-	background-color: #333 !important;
-}
-
-.rc-header {
-	background-color: #333 !important;
+	background-color: #333;
 }
 
 .color-primary-font-color {
-    color: #eee !important;
+    color: #eee;
 }
 
 .flex-nav {
-	background-color: #222 !important;
+	background-color: #222;
 }
 
 .contextual-bar-wrap {
-	background-color: #222 !important;
+	background-color: #222;
 }
 
 .rc-user-info-details {
-	background-color: #222 !important;
+	background-color: #222;
 }
 
 .rc-user-info-details__info {
-	color: #eee !important;
+	color: #eee;
 }
 
 .role-tag {
-	color: #000 !important;
+	color: #000;
 }
 
 .sidebar {
-	background-color: #222 !important;
+	background-color: #222;
 }
 
 .footer {
-	background-color: #222 !important;
+	background-color: #222;
 }
 
 .rc-header__data {
-	color: #eee !important;
+	color: #eee;
 }
 
 .rc-message-box__textarea {
-	color: #eee !important;
+	color: #eee;
 }
 
 .rc-message-box__typing__user {
-	color: #eee !important;
+	color: #eee;
 }
 
 .code-colors {
-	background-color: #eee !important;
+	background-color: #eee;
 }
 
 .room-leader {
-	background-color: #333 !important;
-    border-color: #333 !important;
+	background-color: #333;
+    border-color: #333;
 }
 
 .sidebar-item--active {
-	background-color: #333 !important;
+	background-color: #333;
 }
 
 .sidebar-item:hover {
-	background-color: #2a2a2a !important;
+	background-color: #2a2a2a;
 }
 
 .rc-icon {
-	color: #eee !important;
+	color: #eee;
 }
 
 .rc-message-box__container {
-    border-color: #333 !important;
+    border-color: #333;
 }
 
 .chat-now {
@@ -142,27 +118,27 @@ div.body a {
 }
 
 .rc-modal-wrapper {
-	background-color: rgba(22,22,22,.8) !important;
+	background-color: rgba(22,22,22,.8);
 }
 
 .rc-modal {
-	background-color: #222 !important;
+	background-color: #222;
 }
 
 .rc-modal__footer {
-	background-color: #333 !important;
+	background-color: #333;
 }
 
 .rc-button {
-	color: #eee !important;
+	color: #eee;
 }
 
 .rc-select {
-	border-color: #333 !important;
+	border-color: #333;
 }
 
 .rc-member-list__counter {
-	color: #eee !important;
+	color: #eee;
 }
 
 .rc-tags {
@@ -170,11 +146,11 @@ div.body a {
 }
 
 .attachments__name {
-	color: #eee !important;
+	color: #eee;
 }
 
 .background-attention-color {
-	background-color: #fff !important;
+	background-color: #fff;
 }
 
 .color-primary-font-color::after {
@@ -194,5 +170,58 @@ div.body a {
 }
 
 .sidebar-item__user-status--offline {
-	background-color: #000 !important;
+	background-color: #000;
 }
+
+#popup {
+	background-color: #333;
+}
+
+.secondary-background-color {
+	background-color: #444;
+}
+
+.content-background-color {
+	background-color: #1d1d1d;
+}
+
+.sidebar-item__popup-active {
+	background-color: #222;
+}
+
+.emoji-picker {
+	background-color: #222;
+}
+
+.rc-input__element-small-placeholder {
+	background-color: #222;
+}
+
+.create-channel__title, .rc-switch__text {
+	color: #eee;
+}
+
+.rc-table-td {
+	color: #eee;
+}
+
+.rc-table-tr:hover {
+	background-color: #222 !important;
+}
+
+.rc-input__element {
+	color: #888;
+}
+
+.rc-input {
+	color: #888;
+}
+
+.rooms-list__toolbar-search {
+	background-color: #222;
+}
+
+.rc-input__element {
+	background-color: #222 !important;
+}
+
