@@ -2,6 +2,7 @@ code {
     font-family: Monaco,Menlo,Consolas,"Courier New",monospace !important;
 }
 
+
 .messages-box ul > li:nth-child(odd) {
     background-color: #1d1d1d;
 }
@@ -10,7 +11,7 @@ code {
 }
 
 div.body a {
-    color: #1d74f5;
+    color: #1d74f5 !important;
 }
 
 .messages-container .footer {
@@ -60,7 +61,7 @@ div.body a {
 }
 
 .role-tag {
-	color: #000;
+	color: #000 !important;
 }
 
 .sidebar {
@@ -151,6 +152,10 @@ div.body a {
 
 .background-attention-color {
 	background-color: #fff;
+}
+
+.background-primary-action-color {
+	background-color: #0ff;
 }
 
 .color-primary-font-color::after {
